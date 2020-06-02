@@ -42,6 +42,12 @@ body {
     float: left;
 }
 
+.postagem {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
 #area-lateral {
     width: 240px;
     float: right;
